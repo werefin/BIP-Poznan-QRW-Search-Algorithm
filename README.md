@@ -1,9 +1,8 @@
 # BIP Poznań: QRW Search Algorithm
 
 ## About this project
-The project concerns the final presentation of the **BIP** (Blended Intensive Program) in Poznań, Poland, for Erasmus+ by the University of Padova.
+This project concerns the final work of the **BIP** (Blended Intensive Program) in Poznań, Poland, for Erasmus+ by the University of Padova.
 
-### Project
-A Quantum Random Walk search algorithm is implemented on an n-dimensional hypercube, as initially described by [Shenvi et alter](https://arxiv.org/abs/quant-ph/0210064) in their work. Multiple implementations are provided in Qiskit, first as a unitary operator, and subsequently decomposed into more concise two-level unitary gates. Lastly, the transformation of the Quantum Random Walk circuit output into a grid is achieved, drawing inspiration from Cellular Automata.
+The initial steps were taken in implementing the first instances of the Quantum Random Walk (QRW) concerning the QiSkit tutorial. Then, a Quantum Random Walk search algorithm was implemented on an n-dimensional hypercube, as initially described by [Shenvi et alter](https://arxiv.org/abs/quant-ph/0210064) in their work. Multiple implementations were provided in Qiskit, first as a unitary operator, and subsequently decomposed into more concise two-level unitary gates. Subsequently, the indicated paper was considered, and the results of a real execution on IBMQ quantum computers were reported. Lastly, the transformation of the Quantum Random Walk circuit output into a grid was achieved, drawing inspiration from Cellular Automata.
 
 
